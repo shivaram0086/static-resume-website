@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <p>Web Developer | Student | Programmer</p>
+    <p>Email: yourmail@gmail.com | Phone: +91-XXXXXXXXXX</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      I am a motivated individual interested in web development and software engineering.
+      I enjoy building simple and responsive web applications.
+    </p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>Python Basics</li>
+      <li>Responsive Web Design</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p>B.Tech in Computer Science</p>
+    <p>XYZ University</p>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li>Portfolio Website</li>
+      <li>To-Do App</li>
+      <li>Weather App</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: yourmail@gmail.com</p>
+    <p>Location: India</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Your Name | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
